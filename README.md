@@ -1,4 +1,5 @@
 # Calculadora
+![1](https://github.com/caiomarcelo03/Qualidade-e-teste-de-software/assets/114271550/ce861c24-e792-4efa-ad3f-3a52c0b69627)
 
 Este é um projeto de testes unitários para uma calculadora em Java utilizando a framework JUnit.
 
