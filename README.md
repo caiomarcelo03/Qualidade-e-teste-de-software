@@ -1,4 +1,4 @@
-# Calculadora JUnit Test
+# Calculadora
 
 Este é um projeto de testes unitários para uma calculadora em Java utilizando a framework JUnit.
 
